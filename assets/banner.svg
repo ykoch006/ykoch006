@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-labelledby="t">
+  <title id="t">y.koc / ykoch006: software engineering, cloud systems, simulation</title>
+  <defs>
+    <!-- dotted texture, same idea as the ground on yukselkoc.com -->
+    <pattern id="dots" width="6" height="6" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#ece7d9" fill-opacity="0.22"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.55" stop-color="#fff" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="dotmask">
+      <rect width="1000" height="200" fill="url(#fade)"/>
+    </mask>
+  </defs>
+
+  <rect width="1000" height="200" rx="10" fill="#16140f"/>
+  <rect x="560" y="0" width="440" height="200" fill="url(#dots)" mask="url(#dotmask)"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" fill="#ece7d9">
+    <text x="48" y="44" font-size="13" fill-opacity="0.55" letter-spacing="1">01. ── reading, uk</text>
+    <text x="48" y="104" font-size="40" font-weight="600" letter-spacing="-0.5">y.koc / ykoch006</text>
+    <text x="48" y="140" font-size="16" fill-opacity="0.75">software engineering · cloud systems · simulation</text>
+    <text x="48" y="172" font-size="13" fill-opacity="0.55">yukselkoc.com</text>
+  </g>
+</svg>

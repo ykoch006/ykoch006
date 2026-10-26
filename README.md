@@ -1,8 +1,12 @@
+<img src="assets/banner.svg" alt="y.koc / ykoch006: software engineering, cloud systems, simulation" width="100%">
+
 ### hi, i'm yüksel
 
 final-year computer science student at the university of reading, graduating in 2027.
 interested in software engineering, cloud systems, simulation and building practical tools.
 currently working mostly with python, typescript, react, next.js and fastapi.
+
+<img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,fastapi,docker,tailwind,redis,githubactions,git&theme=dark" alt="python, typescript, react, next.js, fastapi, docker, tailwind, redis, github actions, git">
 
 #### selected work
 
