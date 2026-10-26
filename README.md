@@ -31,3 +31,9 @@ currently working mostly with python, typescript, react, next.js and fastapi.
 #### elsewhere
 
 [yukselkoc.com](https://yukselkoc.com) · [email](mailto:ykoch006@gmail.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ykoch006/ykoch006/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ykoch006/ykoch006/output/snake.svg">
+  <img alt="contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/ykoch006/ykoch006/output/snake.svg">
+</picture>
