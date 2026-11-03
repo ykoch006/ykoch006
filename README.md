@@ -23,7 +23,7 @@ currently working mostly with python, typescript, react, next.js and fastapi.
 
 #### background
 
-- bsc computer science, university of reading, 2024–2027 (second-year average 73%)
+- bsc computer science, university of reading, 2024–2027 (second-year average 71.8%)
 - technical operations at egs: python automation, database migration, sql and technical support
 - work shadowing with microsoft's customer success team
 - final-year project: reinforcement learning for resource-constrained scheduling
